@@ -32,6 +32,11 @@ Information about installing the product, check the [wiki page](https://github.c
 
 And don't forget to read the whole [Wiki](https://github.com/the-djmaze/snappymail/wiki).
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/SnappyMail/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/snappymail-template"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## License
 
 **SnappyMail** is released under
